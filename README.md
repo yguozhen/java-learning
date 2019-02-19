@@ -3,7 +3,10 @@
 this respository is a program to record the process of learning about JAVA
 
 Pro01 is a game named table game.(the function of this game is rebound between two side.)
+
 Pro02 are some variable or some rules when use java as a tools.
+
+Pro03 have some examples to explain the function about logic sentences.
 
 
 
