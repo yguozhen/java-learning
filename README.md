@@ -13,6 +13,8 @@ Pro03 have some examples to explain the function about logic sentences.
 
 
 规范(程序员基本准则，不这样的话会损害个人形象)：
+
+
 1,类名首字母大写Man,GoodMan
 
 2,表示方法和变量的第一个不大写后面的大写比如eatFood(),eat()
